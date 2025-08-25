@@ -1,5 +1,5 @@
 export default function Main() {
   return <div>
-  Hello
+    Home Page
   </div>
 }
