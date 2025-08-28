@@ -1,5 +1,4 @@
 import { getTechLogos } from "@/lib/utils"
-import { url } from "inspector"
 import Image from "next/image"
 
 const DisplayTechIcons = async({techStack}:TechIconProps) => {
